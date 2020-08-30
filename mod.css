@@ -1,0 +1,64 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap');
+* {font-family: Roboto, Helvetica, Arial, sans-serif;}
+.jumbotron {background-image: url("images/jumbotron-image-bg.png");background-position: center;background-repeat: no-repeat;background-size: cover;}
+.jumbotron {height: 30rem;}
+.jumbotron h1 {font-weight: 100;}
+/* MARKETING CONTENT
+-------------------------------------------------- */
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {margin-bottom: 1.5rem;text-align: center;}
+.marketing h2 {font-weight: 400;}
+.marketing .col-lg-4 p {margin-right: .75rem;margin-left: .75rem;}
+/* Featurettes
+------------------------- */
+.featurette-divider {margin: 1rem 0; /* Space out the Bootstrap <hr> more */}
+/* Thin out the marketing headings */
+.featurette-heading {font-weight: 300;line-height: 1;letter-spacing: -.05rem;}
+.featurette-image {width: 500px;height: 500px;overflow: hidden;}
+.featurette-image img {}
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media (min-width: 62em) {
+  .featurette-heading {margin-top: 7rem;}
+}
+.form-group.has-search {margin-bottom: 0;}
+.has-search .form-control {padding-left: 2.375rem;}
+.has-search .form-control-feedback {position: absolute;z-index: 2;display: block;width: 1.5rem;height: 1.5rem;line-height: 2.375rem;text-align: center;pointer-events: none;color: #aaa;margin: 0.5rem;}
+.fa-search {background-image: url(images/fontawesome.svg);width: 20px;}
+[class^="icon-"], [class*=" icon-"] {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-right: .25em;
+    line-height: 14px;
+}
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
