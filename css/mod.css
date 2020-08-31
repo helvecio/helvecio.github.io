@@ -76,4 +76,8 @@ a.navbar-brand {color: #1d1d1d;}
 .blog-post {
     margin-bottom: 3rem;
 }
-.blog-post-meta {color:#3E9FDB;}
+.blog-post-meta {color:#F5C516;}
+.bg-marketing-winter {background-color: #4F4E4E;width: 140px; margin: 0 auto;}
+.bg-marketing-spring {background-color: #62BF27;width: 140px; margin: 0 auto;}
+.bg-marketing-autumn {background-color: #4558B5;width: 140px; margin: 0 auto;}
+.bg-marketing-summer {background-color: #E89B41;width: 140px; margin: 0 auto;}
