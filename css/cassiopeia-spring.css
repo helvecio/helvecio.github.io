@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+a {color: #426B00;}
+a:hover {color: #DBD30F;}
+a.navbar-brand {color: #6C6900;}
+.bg-light {background-color: #f0f0f0!important;}
+.jumbotron {
+    background-image: url(../images/jumbotron-image-bg-spring.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-marketing-summer {background-color: #426B00;width: 140px; margin: 0 auto;}
+.topbar-nav .metismenu a:hover, .topbar-nav .metismenu a:focus, .topbar-nav .metismenu a:active {
+    color: #ffffff;
+    text-decoration: none;
+    background: #426B00!important;
+}
+.btn-warning {
+    color: #ffffff;
+    background-color: #426B00;
+    border-color: #426B00;
+}.btn-warning:hover {
+    color: #ffffff;
+    background-color: #6BDB0F;
+    border-color: #6BDB0F;
+}

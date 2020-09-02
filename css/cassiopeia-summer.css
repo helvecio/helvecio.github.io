@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+a {color: #E89B41;}
+a:hover {color: #F57122;}
+a.navbar-brand {color: #FF5624;}
+.bg-light {background-color: #f0f0f0!important;}
+.jumbotron {
+    background-image: url(../images/jumbotron-image-bg-summer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-marketing-summer {background-color: #E89B41;width: 140px; margin: 0 auto;}
+.topbar-nav .metismenu a:hover, .topbar-nav .metismenu a:focus, .topbar-nav .metismenu a:active {
+    color: #ffffff;
+    text-decoration: none;
+    background: #F57122!important;
+}

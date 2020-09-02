@@ -3,11 +3,7 @@
 * {font-family: 'Roboto', sans-serif;}
 header {border-bottom: 1px solid #CCCCCC;}
 h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {font-family: 'Poppins', sans-serif;}
-a {color: #E89B41;}
-a:hove {opacity: 0.75;}
-a.navbar-brand {color: #1d1d1d;}
-.bg-light {background-color: #f0f0f0!important;}
-.jumbotron {background-image: url("../images/jumbotron-image-bg.png");background-position: center;background-repeat: no-repeat;background-size: cover;}
+
 .jumbotron {height: 30rem;}
 .jumbotron h1 {font-weight: 100;}
 @media (max-width: 62em) {
@@ -36,7 +32,6 @@ a.navbar-brand {color: #1d1d1d;}
 .form-group.has-search {margin-bottom: 0;}
 .has-search .form-control {padding-left: 2.375rem;}
 .has-search .form-control-feedback {position: absolute;z-index: 2;display: block;width: 1.5rem;height: 1.5rem;line-height: 2.375rem;text-align: center;pointer-events: none;color: #aaa;margin: 0.2rem;}
-/*.fa-search {background-image: url(../images/fontawesome.svg);width: 20px;}*/
 [class^="icon-"], [class*=" icon-"] {
     display: inline-block;
     width: 14px;
@@ -80,4 +75,4 @@ a.navbar-brand {color: #1d1d1d;}
 .bg-marketing-winter {background-color: #4F4E4E;width: 140px; margin: 0 auto;}
 .bg-marketing-spring {background-color: #62BF27;width: 140px; margin: 0 auto;}
 .bg-marketing-autumn {background-color: #4558B5;width: 140px; margin: 0 auto;}
-.bg-marketing-summer {background-color: #E89B41;width: 140px; margin: 0 auto;}
+
