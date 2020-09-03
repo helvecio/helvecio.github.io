@@ -7,6 +7,11 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {font-family: 'Poppins', sans-serif;}
 .jumbotron {height: 30rem;}
 .jumbotron h1 {font-weight: 100;}
 @media (max-width: 62em) {
+div.jumbotron>div {
+    width: 100%!important;
+}  
+}
+@media (max-width: 62em) {
 .display-3 {
     font-size: 2.5rem;
 }  
