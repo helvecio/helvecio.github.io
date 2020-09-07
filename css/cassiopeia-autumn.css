@@ -5,7 +5,7 @@ a:hover {color: #45A8E6;}
 a.navbar-brand {color: #2E4E6D;}
 .bg-light {background-color: #f0f0f0!important;}
 .jumbotron {
-    background-image: url(../images/jumbotron-image-bg-autumn.png);
+    background-image: url(../images/jumbotron-image-bg-autumn.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
