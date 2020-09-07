@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-a {color: #713B0F;}
+a {color: #751D2B;}
 a:hover {color: #F57122;}
-a.navbar-brand {color: #713B0F;}
+a.navbar-brand {color: #751D2B;}
 .bg-light {background-color: #f0f0f0!important;}
 .jumbotron {
     background-image: url(../images/jumbotron-image-bg-summer.svg);
