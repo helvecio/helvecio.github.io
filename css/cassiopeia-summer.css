@@ -3,6 +3,7 @@
 a {color: #751D2B;}
 a:hover {color: #F57122;}
 a.navbar-brand {color: #751D2B;}
+h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6 {color: #751D2B;font-weight: 400;}
 .bg-light {background-color: #f0f0f0!important;}
 .jumbotron {
     background-image: url(../images/jumbotron-image-bg-summer.svg);
